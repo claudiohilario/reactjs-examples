@@ -4,7 +4,7 @@ import logo from './logo.svg';
 class App extends Component {
   render() {
     return (
-      <h1>Teste</h1>
+      <h1>AppTest</h1>
     );
   }
 }
